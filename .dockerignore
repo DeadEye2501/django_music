@@ -1,0 +1,5 @@
+/django_music/media/music_library/artists/
+/django_music/media/music_library/tracks/
+Pipfile
+Pipfile.lock
+.idea
