@@ -139,3 +139,4 @@ Pipfile
 Pipfile.lock
 /django_music/media/music_library/artists/
 /django_music/media/music_library/tracks/
+/django_music/static/
